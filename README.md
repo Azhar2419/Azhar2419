@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... azharuddin2419@gmail.com/9063136743
+- 📫 How to reach me ... azharuddin2419@gmail.com/+919063136743
 
 <!---
 Azhar2419/Azhar2419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
