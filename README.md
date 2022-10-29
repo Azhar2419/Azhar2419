@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Azhar2419
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Azhar
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently working as a member technical @ADP
+- 💞️ I'm intreated in learning new technologies.
 - 📫 How to reach me ... azharuddin2419@gmail.com/9063136743
 
 <!---
