@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azhar
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently working as a member technical @ADP
+- 🌱 I’m currently working as Senior Member Technical @ADP
 - 💞️ I'm intreated in learning new technologies.
 - 📫 How to reach me ... azharuddin2419@gmail.com/ +919063136743
 
